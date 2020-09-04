@@ -21,7 +21,7 @@ Type of education | Date started | Date finished | What I've learned
 ## Programming courses
 
 Type of education | Location | Date started | Date finished | What I've learned
-:--- | :--: | :--: | :--: | :--:
+:--- | :---: | :--: | :--: | :--:
 [freecodecamp.org](https://www.freecodecamp.org/)| online | 07-2019 | 08-2019 | CSS and HTML.
 [Solo Learn app and site](https://www.sololearn.com/Profile/14572445#)| android | 08-2019 | Now | Java, PHP, SQL only concepts. 
 [Java od podstaw do eksperta](https://www.udemy.com/course/java-od-podstaw-do-eksperta-tworz-wasne-aplikacje/) | Udemy | 08-2019 | 10-2019 | Basics of Coding, setting up environment for programming, understanding how Java works in INTELLIJ IDEA and  keyboard shortcuts. 
