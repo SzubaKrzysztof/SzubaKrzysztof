@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Path of young padawan
+# Path of (not so)young padawan
 My history of learning coding
 
 ## My work so far
