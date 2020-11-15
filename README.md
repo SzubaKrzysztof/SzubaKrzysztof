@@ -16,7 +16,7 @@ Title | Language | What concepts of programming I've learned | Git repository
 Type of education  | What I've learned
 :--  | :--:
 [Java Head First](https://www.amazon.com/Head-First-Java-Brain-Friendly-Guide-ebook/dp/B009KCUX3S)  | Basics of Java in Theory. Didn't understood all concepts at first.
-[The Nature of Code](https://natureofcode.com/book/) |  09-2019 | 11-2019 | Simplified Java language in practice with great explanation. 
+[The Nature of Code](https://natureofcode.com/book/)  | Simplified Java language in practice with great explanation. 
 
 ## Programming courses
 
